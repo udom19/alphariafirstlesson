@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Alpharia</title>
+	</head>
+	<body>
+		<h1>I love coding</h1>
+		<p>Its my best game</p>
+		<h2>These are my details</h2>
+		<h3>Name: Cosmas Udom</h3>
+	</body>
+</html>
